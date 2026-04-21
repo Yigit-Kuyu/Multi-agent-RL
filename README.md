@@ -62,12 +62,6 @@ python MASAC.py
 
 Each script supports training and evaluation modes, checkpoint saving, and periodic evaluation logging through command-line arguments.
 
-## Evaluation Figure
-
-The figure below shows the comparison in terms of **Eval Mean Team Reward**.
-
-![Eval Mean Team Reward Comparison](MARL_comparison.png)
-
 ## Notes
 
 - All methods are compared on the same environment family and continuous-action setting.
